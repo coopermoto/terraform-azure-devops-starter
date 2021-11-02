@@ -6,7 +6,7 @@ parameters:
   TerraformBackendServiceConnection: Terraform
   TerraformEnvironmentServiceConnection: Terraform
   TerraformBackendResourceGroup: terraform
-  TerraformBackendStorageAccount: terraformstarterstate
+  TerraformBackendStorageAccount: sa-terraformstarterstate-nouver
   TerraformBackendStorageContainer: terraformstate
   TerraformBackendLocation: North Europe
 
